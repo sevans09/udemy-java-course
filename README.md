@@ -2,7 +2,7 @@
 Project-based introductory Java course from Udemy.
 
 
-## email-admin: 
+## email-admin
 Serves as an email account generator for new hires at a company.
 
 Generates emails with syntax firstname.lastname@company.com. 
