@@ -17,6 +17,6 @@ Serves as a university database of students to manage enrollments and balance.
 
 Prompts the user for number of new students, along with name and year of students.
 Creates a 5 digit unique ID, with first number being grade level.
-Allows students to enroll in History, Mathematics, English, Chemistry, or Computer Science ($600 each).
-Students can view balance and pya tuition.
+Allows students to enroll in History, Mathematics, English, Chemistry, or Computer Science.
+Students can view balance and pay tuition.
 To see status of a student, should be able to see their name, ID, courses enrolled, and balance.
